@@ -1,0 +1,3 @@
+Initialized a github remote repository
+
+And also linked this working directory to remote directory.
